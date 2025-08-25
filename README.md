@@ -28,28 +28,6 @@ Embeddings: OpenAI, HuggingFace, or local models (user-selectable)
 
 RAG Pipeline: Combines vector search retrieval with a language model to generate contextual answers.
 
-🚀 Getting Started
-
-Clone the repo
-
-git clone https://github.com/yourusername/fives.git
-cd fives
-
-
-Install dependencies
-
-pip install -r requirements.txt
-npm install
-
-
-Run the backend indexer
-
-python app.py
-
-
-Launch the desktop app
-
-npm start
 
 📂 How It Works
 
@@ -75,6 +53,3 @@ Augmented Generation – The context is passed into an LLM (local or API-based),
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-📜 License
-
-MIT License – free to use, modify, and distribute.

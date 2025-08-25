@@ -1,4 +1,4 @@
-Fives
+# Fives
 
 Fives is an open-sourced desktop application that leverages Retrieval-Augmented Generation (RAG) and vector search to make your local files truly searchable. Instead of just relying on filenames or metadata, Fives indexes file contents and lets you query them in natural language — just like talking to your computer.
 
